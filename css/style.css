@@ -19,9 +19,61 @@ body{
 }
 
 .nav li a:hover{
-    color: blue;
+    color: green;
 }
 
 .bg-light{
     background-color: #f8f9fa!important;
+}
+
+h1{
+    letter-spacing: 3px;
+}
+
+.center{
+    margin-top: 10rem;
+    text-align: center;
+}
+
+.head{
+    color: green;
+}
+
+.code{
+    color: green;
+}
+
+.fa-facebook{
+    padding-left: 28px;
+    color: green;   
+}
+
+.fa-github{
+    padding-left: 4px;
+    color: green;   
+}
+
+.fa-linkedin{
+    padding-left: 4px;
+    color: green;   
+}
+
+.fa-facebook:hover{
+    color: black;
+}
+
+.fa-github:hover{
+    color: black;
+}
+
+.fa-linkedin:hover{
+    color: black;
+}
+
+.fa-twitter-square:hover{
+    color: green;
+}
+
+.fa-facebook-square:hover{
+    color: green;
 }
