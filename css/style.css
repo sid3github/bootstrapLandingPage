@@ -77,3 +77,13 @@ h1{
 .fa-facebook-square:hover{
     color: green;
 }
+
+@media(max-width:786px){
+    .head{
+        color: greenyellow;
+    }
+}
+
+.dropdown-menu{
+    background-color: wheat;
+}
